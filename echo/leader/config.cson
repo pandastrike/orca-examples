@@ -7,6 +7,6 @@ test:
   name: "test"
   package:
     name: "test"
-    ref: "./test"
+    ref: "../test"
 
 quorum: 1
